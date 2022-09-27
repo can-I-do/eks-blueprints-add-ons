@@ -1,8 +1,0 @@
-spec:
-  destination:
-    server: https://kubernetes.default.svc
-  source:
-    repoURL: https://github.com/can-I-do/eks-blueprints-add-ons
-    targetRevision: main
-  ingress:
-    host: argocd.k8.canido.click
